@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on PROJECTS IN DATASCIENCE
 - 📫 How to reach me priyankakadirvelv@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: ...
+
 
 <!---
 priyankakadirvel/priyankakadirvel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
