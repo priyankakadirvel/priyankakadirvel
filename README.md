@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyankakadirvel
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning Msc Data science
+- 🌱 I’m currently pursuing Msc Data science from @ChristUniversity
 - 💞️ I’m looking to collaborate on PROJECTS IN DATASCIENCE
 - 📫 How to reach me priyankakadirvelv@gmail.com
 - 😄 Pronouns: she
